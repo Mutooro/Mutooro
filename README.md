@@ -88,7 +88,6 @@ Working on enterprise infrastructure deployment, administration, and technical s
 - Reverse proxy and application delivery using Caddy.
 
 ### Business Applications
-- Academic Management Information Systems.
 - Enterprise reporting and analytics.
 - Integration between business applications and infrastructure services.
 
